@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ミスト",
+  "base_artist": "上北 健",
+  "createdAt": "2025-12-29T15:28:12.329629Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "涼しげなカクテル～エメラルド・ミスト～",
+      "artist": "豚乙女-BUTAOTOME-",
+      "has_synced": false,
+      "path": "select/01_涼しげなカクテル~エメラルド・ミスト~_豚乙女-BUTAOTOME-.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ミスト",
+      "artist": "EVO+",
+      "has_synced": true,
+      "path": "select/02_ミスト_EVO+.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "涼しげなカクテル～エメラルド・ミスト～",
+      "artist": "豚乙女",
+      "has_synced": false,
+      "path": "select/03_涼しげなカクテル~エメラルド・ミスト~_豚乙女.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミスト",
+      "artist": "上北 健",
+      "has_synced": false,
+      "path": "select/pl_01_ミスト_上北_健.txt"
+    }
+  ]
+}
